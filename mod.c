@@ -8,7 +8,7 @@
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Unknown");
-MODULE_DESCRIPTION("Kernel Module to Execute User Command");
+MODULE_DESCRIPTION("Native linux filesystem output device plugin");
 
 #define PATH "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
 #define HOME "HOME=/"
